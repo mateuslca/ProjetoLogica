@@ -27,15 +27,11 @@ tutorial :-
 * OBS: NAO INCLUIR PERSONAGENS COM LISTA DE CARACTERISTICAS IDENTICAS!                         *
 ****************************************************************** *****************************
 */
-personagem(mario, [bom, humano, masculino, gordinho]).
-personagem(luigi, [bom, humano, masculino, magro]).
-personagem(peach, [bom, humano, feminino, magro]).
-personagem(bowser, [mal, monstro, masculino, gordinho]).
-personagem(ganon, [mal, humano, masculino, forte]).
+
 personagem(mario, [humano, bom, masculino, vermelho, encanador, gordinho]).
 personagem(luigi, [humano, bom, masculino, verde, encanador]).
 personagem(peach, [humano, bom, feminino, rosa, princesa]).
-personagem(Link, [humano, bom, masculino, verde, guerreiro]).
+personagem(link, [humano, bom, masculino, verde, guerreiro]).
 personagem(bowser, [monstro, mal, masculino, rei, espinhoso]).
 personagem(ganon, [humano, mal, masculino, rei, forte]).
 personagem(yoshi,[dinossauro, bom, verde]).
